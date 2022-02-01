@@ -14,7 +14,7 @@ Installation
 Usage
 -----
 
-Read about [nosetests](https://nose.readthedocs.io/en/latest/)
+Read about `nosetests`_
 
 .. code-block:: python
 
@@ -111,6 +111,7 @@ Note
 - For more information, please read the  `PAYDUNYA HTTP API`_
 - Tested on Python 2.7, and 3+.
 
+.. _nosetests: https://nose.readthedocs.io/en/latest/
 .. _PAYDUNYA HTTP API: https://paydunya.com/developers/http
 
 Authors
