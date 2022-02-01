@@ -11,8 +11,9 @@ Installation
     $ sudo pip install paydunya
     $ OR git clone https://github.com/paydunyadev/paydunya-python-master.git
     $ cd paydunya-python-master; python setup.py install
-    $ nosetests tests/  # run unit tests with `nosetests`_
+    $ nosetests tests/  # run unit tests
 
+Read about `nosetests`_
 
 Usage
 -----
