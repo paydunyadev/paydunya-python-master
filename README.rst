@@ -9,9 +9,9 @@ Installation
 .. code-block:: bash
 
     $ sudo pip install paydunya
-    $ OR git clone https://github.com/paydunya/paydunya-python
-    $ cd paydunya-python; python setup.py install
-    $ nosetests tests/  # run unit tests
+    $ OR git clone https://github.com/paydunyadev/paydunya-python-master.git
+    $ cd paydunya-python-master; python setup.py install
+    $ nosetests tests/  # run unit tests with [nosetests](https://nose.readthedocs.io/en/latest/)
 
 Usage
 -----
@@ -109,7 +109,7 @@ Note
 ----
 - Some of the API calls require formal approval from PAYDUNYA
 - For more information, please read the  `PAYDUNYA HTTP API`_
-- Tested on Python 2.6, 2.7, and 3+.
+- Tested on Python 2.7, and 3+.
 
 .. _PAYDUNYA HTTP API: https://paydunya.com/developers/http
 
