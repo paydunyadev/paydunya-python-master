@@ -67,13 +67,13 @@ def readme(filename='README.rst'):
 
 setup(
     name='paydunya',
-    version=__import__('paydunya').__version__,
+    version="1.0.7",
     author='PAYDUNYA',
     author_email='paydunya@paydunya.com',
     packages=['paydunya'],
     cmdclass={'test': TestCommand, 'clean': CleanCommand},
     scripts=[],
-    url='https://github.com/paydunya/paydunya-python',
+    url='https://github.com/paydunyadev/paydunya-python-master',
     license='LICENSE.txt',
     keywords="paydunya mobile money payments",
     description='PAYDUNYA Python client library',
