@@ -3,4 +3,4 @@ mccabe==0.6.1
 pep8==1.7.1
 pyflakes==2.4.0
 requests==2.27.1
-wheel==0.37.1
+wheel==0.38.1
